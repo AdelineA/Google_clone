@@ -80,6 +80,9 @@ body{
     text-align: center;
     cursor: pointer;
   }
+  .btn :hover{
+    background-color:  #5a5b5e;
+  }
   .btn1{
     width: 8rem;
     height: 2.5rem;
@@ -94,9 +97,10 @@ body{
     background-color: #303134;
     border-radius: 4px;
   }
+ 
   .lang{
     display: flex;
-    color: #bdc1c6;;
+    color: #bdc1c6;
     justify-content: center;
     font-size: small;
     font-family: Arial, sans-serif;
